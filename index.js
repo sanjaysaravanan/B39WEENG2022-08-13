@@ -22,10 +22,10 @@ function reverseStr(str) {
   for(var i=arr.length - 1;i >=  0;i--){
     reversedStr = reversedStr + arr[i];
   }
-  console.log(reversedStr)
+  console.log(reversedStr);
 }
 
-reverseStr("Some");
+reverseStr("Some");// 0 -> s 1 -> o 2 -> m 3 -> e 
 
 if (nothing2) { // undefined & null will be considered false condition
   console.log("True at Line 31");
