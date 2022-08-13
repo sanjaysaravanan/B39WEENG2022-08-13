@@ -1,0 +1,47 @@
+Recap:
+  Web & Web Browser
+
+Topics:
+
+  Networking:
+
+    http ---> Hyper Text Transfer protocol
+
+    IP Address ( Logical ) -> Unique Address that Identifies a device on the internet or local network
+    MAC Address ( Physical ) -> 
+    Ports -> Software Defined number associated to a network protocol that receives or transmit communication for a specific service
+
+    Evolution of Http (More Info https://medium.com/platform-engineer/evolution-of-http-69cfe6531ba0)
+    
+    What happens when User enter any url in the Browser
+    HTTP Status Codes
+
+  BrowserJs vs NodeJs
+    window & document object
+
+    BrowserJS ( Sandboxed JS interpreter )
+      -> Execution with the help of browsers JS engine which gives a of control over browser with certain object like window, document
+    
+    NodeJS: ( Stripped V8 engine )
+      -> Execution of JS without any browser but with the V8 JS Engine which helps in running JS.
+
+    Interpreted ( Dynamic ) -> Eg: Javascript, Python
+    Compilation(Static) -> Eg: Java, C, C++
+
+  Js:
+    keyword is reserved for understading in JS
+  Data Types
+    Primitive:
+      string, number(NaN), boolean, undefined, null,
+    Composite Data Types:
+      Object, Array, Function
+    
+  Copy By Value & Copy By Reference
+  
+  Array and Json Iteration
+
+  XMLHttpRequest
+  HTTP Methods
+
+  If Time Permits:
+    Pushing Codes to Github - Part - 1
